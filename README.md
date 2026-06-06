@@ -6,12 +6,11 @@ The project was built while following *Django 5 By Example* by Antonio Melé.
 
 ### Chapter 1: Building a Blog Application
 
-<<<<<<< HEAD
 ## This chapter will cover the following topics:
 
-=======
+---
+
 ### This chapter will cover the following topics:
->>>>>>> 6ac91c82218429dc0baeb3884886ab2e565a6e09
 - Installing Python
 - Creating a Python virtual environment
 - Installing Django
@@ -23,11 +22,9 @@ The project was built while following *Django 5 By Example* by Antonio Melé.
 - Working with QuerySets and model managers
 - Building views, templates, and URLs
 - Understanding the Django request/response cycle
-<<<<<<< HEAD
 
-=======
+---
   
->>>>>>> 6ac91c82218429dc0baeb3884886ab2e565a6e09
 ### Set Up
 
 ### Installing Python
@@ -620,7 +617,7 @@ DEFAULT_FROM_EMAIL=My Blog <your_account@gmail.com>
 - The chapter will cover the following topics:
 - Implementing tagging using django-taggit
 - Retrieving posts by similarity
-- Creating custom template tags and filters to display the latest posts and most commented posts
+- Creating custom template tags and filters to display the latest posts and most commented     posts
 - Adding a sitemap to the site
 - Creating feeds for blog posts
 - Installing PostgreSQL
@@ -922,11 +919,7 @@ Update settings.py
 ### Weighting Queries
 
 ### Searching with Trigram Similarity
-<<<<<<< HEAD
 - python manage.py makemigrations - name=trigram_ext --empty blog
-=======
-- python manage.py makemigrations --name=trigram_ext --empty blog
->>>>>>> 6ac91c82218429dc0baeb3884886ab2e565a6e09
 - python manage.py migrate blog
   
 ### Figure 3.32 Search results for the term "yango"
