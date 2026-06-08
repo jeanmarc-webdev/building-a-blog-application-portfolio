@@ -930,6 +930,6 @@ Update settings.py
 
 ---
 
-## Link for Building a Blog Application code:
+## Link for Building a Social Website code:
 
 https://github.com/jeanmarc-webdev/building-a-blog-application
